@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lab-study-lms/static/css/main.55dce196.css",
+    "main.js": "/lab-study-lms/static/js/main.5aceecb0.js",
+    "static/js/453.eb18db89.chunk.js": "/lab-study-lms/static/js/453.eb18db89.chunk.js",
+    "index.html": "/lab-study-lms/index.html",
+    "main.55dce196.css.map": "/lab-study-lms/static/css/main.55dce196.css.map",
+    "main.5aceecb0.js.map": "/lab-study-lms/static/js/main.5aceecb0.js.map",
+    "453.eb18db89.chunk.js.map": "/lab-study-lms/static/js/453.eb18db89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55dce196.css",
+    "static/js/main.5aceecb0.js"
+  ]
+}
